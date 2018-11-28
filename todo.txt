@@ -1,0 +1,8 @@
+ - low = medium + high
+
++menu update
++comment
++eff report
+
+-delete displays a bad error
+
